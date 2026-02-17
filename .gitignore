@@ -1,0 +1,14 @@
+__pycache__/
+Data/
+env/
+out/
+build/
+/build*
+.vs/
+.vscode/
+.gdbhistory
+tags
+# Python stuff
+*.egg
+*.egg-info/
+*.pyc

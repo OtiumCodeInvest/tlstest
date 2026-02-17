@@ -1,12 +1,4 @@
-# VTracerCpp
-
-A pure C++ port of the [vtracer](https://github.com/visioncortex/vtracer) library, originally written in Rust by [visioncortex](https://github.com/visioncortex). Translated to C++ using Google Gemini Pro.
-
-**VTracerCpp** is a C++ tool and library that converts raster images (such as PNG or JPEG) into vector graphics (SVG).
-
-Replicates the hierarchical clustering, path simplification, and spline generation of the original Rust implementation.
-
-Source code for GLEW, GLFW, ImGui, Some OpenCV drawing and stb_image.h is provided within the project
+# tlstest
 
 ## Build command on Linux
 ```
